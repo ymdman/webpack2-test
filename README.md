@@ -4,4 +4,4 @@
   - autoprefixer
   - postcss-import
 
-上記のビルドが最低限の条件とする
+上記のビルドを最低限の条件して動くようにする
